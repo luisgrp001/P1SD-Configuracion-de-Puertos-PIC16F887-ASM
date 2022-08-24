@@ -1,0 +1,5 @@
+Escribir un programa en ensamblador que realice la suma de dos numeros binarios de 8 bits, 
+los cuales se ingresan a través de los puertos A y C, el resultado se dará en el puerto B, 
+y el bit de acarreo se mostrará en el bit 7 del puerto D.
+
+VIDEO DE LA PRACTICA: https://drive.google.com/file/d/1bmmbMu7QvNbNwxNjSFMoIYXTFkTX8d0d/view?usp=sharing
